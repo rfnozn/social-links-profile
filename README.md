@@ -7,4 +7,3 @@ This is my solution to the [Social links profile challenge on Frontend Mentor](h
 ### Screenshot
 
 ![](./assets/screenshots/screenshot-card.png)
-# social-links-profile
